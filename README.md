@@ -2,7 +2,7 @@
 
 <h1>Allen Abraham Thomas</h1>
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Full-Stack+Developer;AI+%26+ML+Engineer;Computer+Vision+Enthusiast)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&size=20&pause=1000&color=58A6FF&center=true&vCenter=true&width=500&lines=Python+Full-Stack+Developer;AI+%26+ML+Engineer)](https://git.io/typing-svg)
 
 <br/>
 
